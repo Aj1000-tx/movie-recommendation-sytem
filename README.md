@@ -1,4 +1,4 @@
-# movie-recommendation-sytem
+# movie-recommendation-system
 
 # 🌟 Overview
 The Movie Recommendation System is a machine learning-powered application that suggests movies to users based on their preferences and behavior. Whether you're into action-packed thrillers, romantic comedies, or sci-fi adventures, this system ensures personalized recommendations for every movie enthusiast!
